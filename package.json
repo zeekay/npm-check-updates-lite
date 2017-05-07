@@ -55,7 +55,6 @@
     "json-parse-helpfulerror": "^1.0.3",
     "lodash": "^4.15.0",
     "node-alias": "^1.0.4",
-    "npm": "^4",
     "npmi": "^2.0.1",
     "require-dir": "^0.3.0",
     "semver": "^5.3.0",
@@ -73,6 +72,9 @@
     "mocha": "^3.0.2",
     "should": "^11.1.0",
     "tmp": "0.0.31"
+  },
+  "peerDependencies": {
+    "npm": "^4"
   },
   "files": [
     "bin",
