@@ -22,7 +22,6 @@
     "version",
     "management"
   ],
-  "preferGlobal": true,
   "engines": {
     "node": ">=0.12"
   },
