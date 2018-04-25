@@ -73,9 +73,6 @@
     "snyk": "^1.25.1",
     "tmp": "0.0.31"
   },
-  "peerDependencies": {
-    "npm": "^4"
-  },
   "files": [
     "bin",
     "lib"
