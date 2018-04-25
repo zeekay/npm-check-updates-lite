@@ -1,5 +1,5 @@
 {
-  "name": "npm-check-updates",
+  "name": "npm-check-updates-lite",
   "version": "2.14.2",
   "author": "Tomas Junnonen <tomas1@gmail.com>",
   "license": "Apache-2.0",
@@ -57,7 +57,6 @@
     "json-parse-helpfulerror": "^1.0.3",
     "lodash": "^4.15.0",
     "node-alias": "^1.0.4",
-    "npm": "^3.10.6",
     "npmi": "^2.0.1",
     "rc-config-loader": "^2.0.1",
     "semver": "^5.3.0",
