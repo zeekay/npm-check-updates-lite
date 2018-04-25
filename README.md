@@ -1,3 +1,6 @@
+# npm-check-updates-lite
+### (Fork which does not directly include npm as a dependency)
+
 [![npm](https://badge.fury.io/js/npm-check-updates.svg)](http://badge.fury.io/js/npm-check-updates)
 [![Build Status](https://travis-ci.org/tjunnone/npm-check-updates.svg?branch=master)](https://travis-ci.org/tjunnone/npm-check-updates)
 ![npm (@next)](https://img.shields.io/npm/v/npm-check-updates/next.svg)
@@ -102,7 +105,7 @@ Do not use these unless you know what you are doing! Not needed for typical usag
     --packageFileDir         use same directory as packageFile to compare against
                              installed modules. See #201.
     --configFilePath         rc config file path (default: ./)
-    --configFileName         rc config file name (default: .ncurc.{json,yml,js})                             
+    --configFileName         rc config file name (default: .ncurc.{json,yml,js})
     -n, --newest             find the newest published versions available instead
                              of the latest stable versions
     -o, --optional           check only optionalDependencies
